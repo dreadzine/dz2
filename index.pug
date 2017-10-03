@@ -10,6 +10,11 @@ block append styles
           margin-top: 60px;
           margin-bottom: 0;
           text-align: center !important;
+          background-image: url('assets/image/dz2cover.jpg');
+          background-size: cover !important;
+          image-rendering: pixelated !important;
+          background-repeat: no-repeat !important;
+          background-attachment: fixed !important; /*cropping, no tiling*/
         }
       footer {display: none;}
       hr {display: none;}
@@ -22,6 +27,6 @@ block content
   //- cover page
   a(href='table-of-contents.html') #[h1.cover Dreadzine #2]
   a(href='table-of-contents.html') #[h2.cover The End of the World]
-  a(href='table-of-contents.html') #[img(src='assets/image/dz2cover.jpg').cover]
+  //- a(href='table-of-contents.html') #[img(src='assets/image/dz2cover.jpg').cover]
 //- block footer
   //- .right: a(href='table-of-contents.html') Contents

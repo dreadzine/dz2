@@ -1,13 +1,11 @@
 //- use leading, not trailing, whitespace
 extends base
 block prepend header
-  a(href='table-of-contents.html') #[h1.cover Dreadzine #2]
-  a(href='table-of-contents.html') #[h2.cover The End of the World]
 block append styles
     style.
       body {background-color: rgb(54,24,26);}
         .container {
-          width: 100%;
+          width: 100% !important;
           margin-top: 60px;
           margin-bottom: 0;
           text-align: center !important;
@@ -21,7 +19,8 @@ block append styles
 block music
 block content
   //- cover page
-
+  a(href='table-of-contents.html') #[h1.cover Dreadzine #2]
+  a(href='table-of-contents.html') #[h2.cover The End of the World]
   a(href='table-of-contents.html') #[img(src='assets/image/dz2cover.jpg').cover]
 //- block footer
   //- .right: a(href='table-of-contents.html') Contents

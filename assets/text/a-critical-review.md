@@ -44,7 +44,7 @@ Boy was I wrong. I haven’t thrown a single leaf out. At first I thought it sme
 
 My mattress got moldy, so I restuffed my bed with the vacuum-sealed bags. 
 
-When the eggs went bad, I rubbed it on the walls to mask the smell
+When the eggs went bad, I rubbed it on the walls to mask the smell.
 
 It drives away the mutants, stings their nostrils. I wear a wreath of it when I go out. 
 

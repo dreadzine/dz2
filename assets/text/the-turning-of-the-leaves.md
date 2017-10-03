@@ -1,0 +1,139 @@
+“I like your hair this way.”
+
+Elegant fingers ran through Bardo’s short black hair. Nine long months she had been away from home. Three seasons since she’d last paid a visit to Dorji or stepped foot in a proper maiden tent. 
+
+“Don’t get used to it,” Bardo said as she buttoned up her tunic. “It’ll be shorn again the moment the first leaves fall.” 
+
+“A few more months to enjoy it, then.” Her fingers trailed down to the scars collared around Bardo’s neck, lightly tracing the raised symbols until Bardo’s hand caught her own.
+
+“That tickles.” Bardo got up from the cot and smoothed back her hair.  “Though I’m sorry to leave, I’m to meet my ward now.”
+
+“Will I see you after the ceremony?”
+
+Bardo bent to catch her chin before sealing a kiss over her lips. “You will.”
+
+Dorji paused. “You taste of something strange,” she murmured. “Like figs, almost. Just as they’re about to turn.”
+
+Bardo nodded wordlessly before exiting the candlelit tent.
+
+It wasn’t the first time she’d heard this—such was her nature as a White Udagan. To her first maiden, she’d lingered on the tongue like the milky dregs of rice wine. Even the valley shaman enjoyed her presence as she carried the scent of crushed herbs and well-aged ambergris. But to her own father she’d stunk of birthing blood, as he’d so often remind her until the day he died.
+
+Outside, the setting sun soaked the Grey Valley in flamebright oranges and reds. The town square bustled with villagers as they prepared for the evening’s festivities. Paper lanterns perforated with chrysanthemum patterns were strung across posts leading out from the square while shopkeepers set up booths for food and games.
+
+Bardo didn’t hear or see Jinpa approach until she was already standing by her side. Such a quiet girl, that one. But she couldn’t ask for a better ward. Attentive, thoughtful, and innately gifted—in her birth, Jinpa had not only lost her mother, but her twin brother, as well, their shared cord wrapped around both their tiny necks. In the end, it was only Jinpa who managed to draw breath.
+
+“Have you brought the stones?”
+
+Jinpa shrugged heavily under the weight of her leather satchel. “Alabaster cut and polished. I fetched them from the quarryman just this morning.”
+
+Together, they followed the dirt road that lead deep into the valley. At the end, they would arrive at the grove of ancient ginkgo trees. They passed a group of men placing coins into a clay jar, already taking bets on what color the leaves would turn.
+
+Gold, orange, or red, they would all know by the night’s end.
+
+Evening was upon them as Bardo and Jinpa neared the grove. In truth, the grove was more like a tunnel—formed from the overlapping thicket of two rows of thousand-year-old gingko trees. Each tree was dense with small split leaves the color of gentle green.
+
+Three long tables sat side by side under the canopy of branch and leaf, a bounty of food laid atop each. Earlier in the day, caravans had arrived in the Grey Valley, bearing delicacies from each region for the Feast of the Dead.
+
+From the sea came a banquet of brine and salt. Skewers of willow leaf fish grilled over hot coals, each packed from tail to head with salty roe. Smoked abalone steaks, served open on pearlescent half shells. Spiced crab legs—fermented whole in clay pots—on a bed of marinated seaweed. Tin bowls filled with dried pollock soup, steaming hot and topped with grated ginger. Salted squid blackened and sliced into savory strips.
+
+Due to their austerity, the mountainfolk came bearing what precious little they could offer. Hearty foods prepared simply to provide sustenance. Yak meat cured and carved, beloved animals bred and reared for generations. Purple, yellow, and red potatoes served many ways: roasted with herbs, fried in salt and fat, boiled and mashed. Small, round dessert pears skinned in spirals and sliced into juicy crescent moons.
+
+The greatest bounty came from the fertile plains. The plains people had just weeks prior celebrated their own harvest and brought with them a generous reaping for tonight’s feast. Rich cuts of meat from well-fed cattle—fat-marbled strips served in hot skillets with melting sweet onions. Spicy shredded cabbage sautéed with royal pork, freshly slaughtered. Mungbean porridge spooned with soft egg over cooked barley. Glistening brown acorn jelly, cubed and drizzled with oil and red sauce. Thick starchy noodles, pulled by hand and served cold in bowls of bean milk and ground pine nuts. Elegant stacks of sweet rice cakes filled with sticky red bean and nuts, stamped with decorative flowers and leaves. Tiny confections spun from delicate threads of white honey. And endless platters of fresh vegetables and fruit.
+
+Food, untouched by the living, so the honored could first partake—the Feast of the Dead.
+
+A mix of dishes from all three regions was evenly distributed on each of the tables. The first table, for the season of winter, was reserved for the mountainfolk. The plains people would be seated at the second table, for the season of spring. And the third table was for winter, saved for the ones by the sea.
+
+Facing the other tables at the front of the grove sat a smaller table. It was empty except for three sets of bowls, utensils, and cups. Bardo and Jinpa took their places at the table. The valley elder joined them soon after and the three of them waited for the others to arrive.
+
+The honored walked into the grove, led first by the mountainfolk, who were seated at their table first. Bardo recognized all of their faces even though it had been nearly a year since she’d seen them, at the very start of her journey. The Snow Chieftain, the mountain shaman, and the honored’s eldest son. As it was warmer in the Grey Valley, they were clad in light layers of red and white wools. The table was a sparsely populated one.
+
+The next table, by contrast, was full from end to end. The Verdant Queen and her new King, the plains shaman, and a total of eight honored families, each dressed in colorful cotton robes embroidered with their individual family crests.
+
+And lastly, those whom Bardo and Jinpa had most recently known—the ones by the sea—took their places at the third table. Hooded and robed in indigo-dyed flax were the Eldest Sister, the sea shaman, and three honored daughters. Each daughter bore oily black paint streaked over her eyes and brow.
+
+The Valley elder began the night’s address. “Tonight, we have gathered in the Grey Valley at the brink of autumn,” he began. “To pay tribute to the lives given over the past year to honor the great land.”
+
+Bardo and Jinpa stood and poured uncooked rice into the three tin bowls on their table. Long sticks of incense were stuck upright into each bowl and lit. Grey smoke began to uncurl from glowing red tips. The earthy scent of cedar permeated the air.
+
+“In the stone of mountain, the fertile plains of grass, and the everbreaking saltwater, the honored shall live on.”
+
+Bardo quietly emptied the satchel of alabaster into a large stone bowl. Beside her, Jinpa dug a shallow hole in the moist earth with a trowel.
+
+“Winter, Spring, and Summer. In saying your names, we ask for your blessing to begin a season of rest.”
+
+Bardo and Jinpa stepped back and the mountain shaman came forward.
+
+“In shedding your blood, we look to the turning of the leaves, here, in the grey valley,” the Valley elder continued. The red-haired son of the honored stood from the first table and walked up to the front of the grove where his shaman awaited.
+
+“So we may begin anew at Autumn’s end,” the Valley elder finished.
+
+The mountain shaman drew a small curved knife from his belt. “Amidst the cold and stone, your burning embers,” he said.
+
+In one swift motion, the honored’s son nicked the tip of his thumb on the blade’s edge. The Valley elder handed him a white stone. On the gleaming surface, he smeared the blood from his thumb in the shape of his surname.
+
+“Rmu,” he spoke as he placed the stone into the pit.
+
+Bardo recalled the night she handed him a red clay bowl containing his father’s remains. It had been warm to touch, the embers within it still glowing.
+
+Next were the honored families of the plains. “Within the fertile earth, your rich blood.” By the grace of the plains shaman’s jeweled blade, eight surnames were placed into the ground: Besud, Anggu, Jadaran, Dorvod, Ejine, Kiyad, Urdos, Jungar.
+
+In the plains, the rite provided yet another opportunity to bring honor to the family name. As such, many were eager to participate.
+
+The ones by the sea were the last to pay tribute.
+
+Bardo watched Jinpa. As the first honored daughter approached, her ward turned her gaze away. The two had become close by the end of the summer season. Then the storm was summoned, separating the girls in its wake. As it always does, Bardo thought.
+
+The sea shaman withdrew a knife with a red coral hilt. “Submerged in wave and foam, your flowing breath.”
+
+The first honored daughter—the youngest of the three—drew blood and offered her surname, “Soung.” The second honored daughter followed, her brow furrowed so tightly that her face paint rippled: “Eum.”
+
+The last honored daughter approached slowly, her hood pulled so tightly and the oily black paint applied heavily so that her features were obscured in shadows. As she drew her thumb over the sharp knife, she spoke the final name: “Byun.”
+
+When the honored daughters resumed their places at their table, the Valley elder covered the stones with fresh dirt.
+
+“Now, a moment of silence while the honored partake in the feast their bones and blood and breath helped reap.”
+
+Bardo and Jinpa watched over the grove while the rest of the feast goers bowed their heads and closed their eyes. White Udagans were to act as witnesses as well as guides. As occupants of the space between the living and the dead, they observed acts privileged and restricted to one or the other.
+
+The air grew heavy with spirit, like dawn fog settling over the valley. Soon, the smells of meat and fish and sweets being rent and torn would fill the grove even as the food itself would remain untouched.
+
+But it never came. And Bardo could sense the dead had no intention of enjoying the feast that had been arranged in their honor.
+
+Instead, the taste of iron and ash coated her tongue. Her eyes prickled and watered as if stung by smoke. She looked to Jinpa whose expression had turned to quiet terror.
+
+A figure stood up from the third table. It was the third daughter—she pulled the hood back to reveal her face and elaborately braided hair. Bardo realized this was not the honored daughter they had expected for the feast. This was an honored daughter she had met and known many years ago.
+
+“My name is Hae-Il and it was not my mother who was given to the sea this winter.” As she spoke, Bardo flinched. The clear sound of the young woman’s voice spiked iron through her teeth.
+
+“I lost my mother many years ago. Her name was Hae-Mi,” she shouted. She unsheathed a pearl-handled knife and held it high in the air.
+
+“The land will no longer quicken by the blood of our families.” Hae-Il slashed her left palm open. Dark blood spilled onto the grove floor and soaked deep into the earth, turning it black. “This year will not be as the ones that came before it. This year, we will reap our lost blood.”
+
+Two others stood up. The sole son of the mountainfolk and a mother of the plains. Both drew blades and spilled blood from their palms as they spoke the given names of their father and son.
+
+And in that moment, the leaves of the great gingko trees began to glow. Like butterflies drunk on moonlight.
+
+“The Turning of the Leaves!” Bardo heard the Verdant Queen shout. It was happening.
+
+In a matter of seconds, every leaf glowed white, creating a canopy of blinding light above their heads. The feastgoers, overwhelmed by the sudden light, shielded their eyes. And in the chaos, Hae-Il and her companions, joined by the remaining daughters of the sea, ran from the grove and escaped into the darkness.
+
+Finally, the light began to fade. Bardo watched through squinted eyes as the leaves dimmed, one by one, like candles going out.
+
+The leaves had not turned gold. Nor had they turned orange or red. They had turned grey.
+
+And to Bardo’s horror, the leaves fell from the massive ginkgo trees. All at once like a ghostly sigh. Grey, desiccated leaves covered the tables, ruining the food—crumbling grey coated the sweet rice cakes, leaves stuck to the glaze on still-hot meat, floated whole like moths in the soup bowls.
+
+Bardo heard an inhuman groaning overhead—the thick brown branches of the great gingko trees began to stretch and weave together to form a twisted roof. All around them, the gingko branches writhed and grew and braided and tightened.
+
+They were all of them trapped inside the grove.
+
+Then, the leaves erupted into flames. Fire ignited from the leaves at their feet, licked hot from the leaves caught on clothes. The food from the feast burned black, sickly sweet smells mingling with the scent of smoldering flesh and hair.
+
+The fire grew into a maelstrom, urged hotter and wilder by an unseen anger.
+
+Bardo ran to Jinpa and took her under her arm. They huddled together on the ground as the fire roared uncontrollably around them. As she covered her ears to drown out the screams of the feastgoers, her vision seared red and orange and she felt the scars around her neck go ice cold.
+
+The grove burned for hours. The grove burned until dawn, when the new autumn sun finally rose in the Grey Valley.
+
+The two White Udagan—Bardo and Jinpa—emerged from the ancient grove alone, their figures enveloped in black ash.

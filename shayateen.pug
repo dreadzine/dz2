@@ -1,6 +1,12 @@
 extend base
 block append styles
   style.
+    body {
+      background-size: cover !important;
+      image-rendering: pixelated !important;
+      background-repeat: no-repeat !important;
+      background-attachment: fixed !important; /*cropping, no tiling*/
+    }
     nav {background-color: transparent !important;}
     .logo {
       -webkit-filter: invert(1);

@@ -1,4 +1,4 @@
-Patrick Miller. Patrick FUCKING Miller.  [Were you happy when your little snacky guide got picked up by all of the survival enthusiasts?](https://dreadzone.bitbucket.io/dz1/snacks.html)  Funny little joke for everyone trying to seriously survive the bombs? Excited about all the mice running to the cheesed trap? Deer to the salt lick? Lambs to the slaughter house? Flies to that light thing they love?
+Patrick Miller. Patrick FUCKING Miller.  [Were you happy when your little snacky guide got picked up by all of the survival enthusiasts?](http://dreadzone.zone/dz1/snacks.html)  Funny little joke for everyone trying to seriously survive the bombs? Excited about all the mice running to the cheesed trap? Deer to the salt lick? Lambs to the slaughter house? Flies to that light thing they love?
 
 Well you made me feel like all of them. Duped. Swindled. BAMBOOZLED by your velvety words and clever references. Maybe I was scared. Maybe I was a little too late stockpiling food. Thankfully no one actually wanted any of the shit you recommended.
 

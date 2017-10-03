@@ -1,0 +1,23 @@
+extend base
+
+block append styles
+  style.
+    body {
+      color: white !important;
+      background-color: black;
+    }
+    a {color: #abf !important;}
+    hr {color: #abf !important; background-color: #abf !important;}
+    a:hover {color: #67b !important;}
+    .container {text-align: center;}
+    h3 {margin-left: 6px !important;}
+    p {text-align: center;}
+block content
+  a(href=''): img(src='assets/image/preservation.gif')
+  h3.title: a(href='') Preservation
+  h3.author: a(href='') Davin Pavlas
+  p a walking simulator?
+  p #[a(href='') windows] · #[a(href='') mac] · #[a(href='') linux]
+block footer
+  .left !{judge}
+  .right !{six}

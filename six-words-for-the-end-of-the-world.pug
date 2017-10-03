@@ -1,0 +1,11 @@
+extends base
+block append styles
+  style.
+    .title {font-size: 1.8em;}
+block content
+  h3.title Six Words for the End of the World
+  h3.author Damian Wassel
+  include:markdown-it assets/text/six-words.md
+block footer
+  .left !{davin}
+  .right !{leaves}

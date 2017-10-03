@@ -1,0 +1,27 @@
+extend base
+block append styles
+  style.
+    body {background-color: rgb(23,27,36); color: rgb(225,215,186);}
+    .container {
+      width:100% !important;
+      margin-top: 60px !important;
+    }
+    nav {background-color: rgb(0,75,68) !important;}
+    .logo {
+      -webkit-filter: invert(1);
+      filter: invert(1);
+    }
+    video {width: 100% !important;}
+    //- hr {display: none !important;}
+    a {color: rgb(230,96,59) !important;}
+    .left {left: 2%;}
+    .right {right: 2%;}
+    h4 {margin-left: 2%;}
+    p {margin-left: 2%;}
+block content
+  include star.txt
+  h4 Stardust
+  p !{starsky}
+block footer
+  .left !{humans}
+  .right !{review}

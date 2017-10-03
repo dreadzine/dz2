@@ -1,8 +1,27 @@
-extends includes/base
-block title
-  title dreadzine #2 - cover
+//- use leading, not trailing, whitespace
+extends base
+block prepend header
+  a(href='table-of-contents.html') #[h1.cover Dreadzine #2]
+  a(href='table-of-contents.html') #[h2.cover The End of the World]
+block append styles
+    style.
+      body {background-color: rgb(54,24,26);}
+        .container {
+          width: 100%;
+          margin-top: 60px;
+          margin-bottom: 0;
+          text-align: center !important;
+        }
+      footer {display: none;}
+      hr {display: none;}
+      h1,h2,h3 {text-align: center; position: fixed !important;}
+      a {color: white !important;}
+      a:hover {color: white !important;}
+      a:visited {color: white !important;}
 block music
-  include includes/smcpause.txt
 block content
-  a(href='index2.html') play
-  a(href='table-of-contents.html') #[img(src='assets/image/dz2cover.jpg')]
+  //- cover page
+
+  a(href='table-of-contents.html') #[img(src='assets/image/dz2cover.jpg').cover]
+//- block footer
+  //- .right: a(href='table-of-contents.html') Contents

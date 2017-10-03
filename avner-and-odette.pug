@@ -1,0 +1,17 @@
+extends base
+block append styles
+  style.
+    .container {
+      margin-top: 60px !important;
+      width: 886px !important; max-width: 100%;
+      padding-left: 2%;
+    }
+    .left {left: 4%;}
+    .right {right: 2%;}
+block content
+  img(src='assets/image/avnerodette.jpg')
+  h4 Avner &amp; Odette #1
+  p !{irene}
+block footer
+  .left !{final}
+  .right !{outro}

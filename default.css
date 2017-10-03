@@ -1,10 +1,194 @@
-#container {
-  position: absolute;
+html,
+body,
+div,
+span,
+h1, h2, h3, h4, h5, h6,
+p,
+blockquote,
+img,
+ul, ol, li,
+figure, figcaption,
+article,
+header, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+body {
+  letter-spacing: 0.02em;
+  font: 17px/1.5 "Lato", sans-serif;
+  color: black; }
+
+h1.cover {
+  font: 400 20px/1.2 "Lato", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  position: fixed;
+  top: 30%;
   left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  z-index: 5; }
+
+h2.cover {
+  font: 48px/1.2 "Playfair Display SC", serif;
+  letter-spacing: 0.1em;
+  position: fixed;
+  height: 100px;
+  font-weight: 400;
   top: 50%;
-  transform: translate(-50%,-50%);
-}
+  color: white;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5; }
+  @media only screen and (max-width: 768px) {
+    h2.cover {
+      font-size: 2.5em; } }
+
+h3 {
+  font: 1.5em/1.2 "Playfair Display SC", serif;
+  letter-spacing: 0.04em;
+  max-width: 700px;
+  color: black; }
+
+h4 {
+  font-family: "Lato", sans-serif;
+  margin-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 15px;
+  font-weight: 700; }
+  h4:first-child {
+    margin-top: 0; }
+
+.title {
+  font-size: 2em;
+  letter-spacing: 0.1em; }
+  @media only screen and (max-width: 768px) {
+    .title {
+      letter-spacing: 0; } }
+
+.author {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  margin: 2em 0 3.5em 0; }
+
+.cover {
+  margin-top: -20%; }
+  @media only screen and (min-width: 769px) and (max-width: 1200px) {
+    .cover {
+      margin-top: -5%; } }
+  @media only screen and (max-width: 768px) {
+    .cover {
+      margin-top: 0; } }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; }
+
+li {
+  padding-bottom: 8px; }
+
+a {
+  text-decoration: none;
+  color: crimson; }
+  a:hover {
+    color: coral; }
+
+strong {
+  font-weight: 700;
+  letter-spacing: 0.02em; }
 
 p {
-  font-size: 15px;
-}
+  text-align: justify;
+  ms-text-justify: inter-ideograph;
+  padding: 0.4em 0; }
+  @media only screen and (max-width: 768px) {
+    p {
+      font-size: 17px;
+      text-align: left;
+      line-height: 1.6; } }
+
+.container {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 20px auto;
+  max-width: 100%;
+  margin-top: 100px; }
+  @media only screen and (min-width: 1201px) {
+    .container {
+      width: 720px; } }
+  @media only screen and (min-width: 769px) and (max-width: 1200px) {
+    .container {
+      width: 600px; } }
+  @media only screen and (max-width: 768px) {
+    .container {
+      width: 95%; } }
+
+.logo {
+  height: 50px;
+  width: 52px;
+  position: fixed;
+  left: 50%;
+  top: 4px;
+  transform: translateX(-50%); }
+
+hr {
+  width: 5%;
+  color: #f00;
+  background-color: #f00;
+  height: 1px;
+  border: 0;
+  margin: 20px auto; }
+
+img {
+  max-width: 100%;
+  height: auto; }
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+    img {
+      width: 66.6666666667%;
+      height: 66.6666666667%; } }
+
+.dznav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  z-index: 5; }
+
+footer {
+  height: 40px;
+  width: 100%;
+  margin-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 60px; }
+
+.iphonearr {
+  color: #777; }
+
+.left {
+  left: 0;
+  position: absolute;
+  width: 45%;
+  text-align: left; }
+
+.right {
+  right: 0;
+  position: absolute;
+  width: 45%;
+  text-align: right; }
+
+/*# sourceMappingURL=default.css.map */

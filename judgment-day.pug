@@ -1,0 +1,17 @@
+extend base
+block append styles
+  style.
+    body {background-color: black;}
+    .container {text-align: center; margin-top: -20px;}
+    h3 {color: white; padding-left: 10px;}
+    p {text-align: center; font-size: 15px; color: white;}
+    a {color: #888;}
+block content
+  img(src='assets/image/dungeon.gif')
+  h3.title Judgment Day
+  h3.author Alex Wawro
+  a(href='http://dungeonscript.farbs.org/fullscreen.html?p=59de8ce6dda074811132e32356e35aa6' target='_blank') play
+  p (opens in a new window)
+block footer
+  .left !{review}
+  .right !{final}

@@ -1,0 +1,25 @@
+extend base
+//- block styles
+//- block header
+block append styles
+  style.
+    //- body {background-color: rgb(18,14,14);}
+    .container {
+      width: 100%;
+      min-height: 100% !important;
+      padding-bottom: 0 !important;
+      margin-bottom: -60px !important;
+      margin-top: 60px !important;
+    }
+    #passage-ipocalypse {min-height: 100%;}
+    footer {height: 0 !important; margin: 0 !important; position: absolute !important;}
+    .right {right: 1em; position: absolute !important; bottom: 1em;}
+    hr {display: none !important;}
+    h1,h2,h3,h4 {font-family: 'Lato', sans-serif;}
+    a:hover {text-decoration: none !important;}
+    .iphonearr {font-size: 20px; margin-top: 100px;}
+block content
+  include assets/twine/jes-ipocalypse.html
+block footer
+  //- .left !{leaves}
+  .right: a(href='dread-beneath-the-kaleidoscope-sky.html').iphonearr &#9658;

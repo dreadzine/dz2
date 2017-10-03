@@ -1,0 +1,18 @@
+extend base
+block append styles
+  style.
+    body {background-color: rgb(248,248,248);}
+    .container {
+      margin-top: 60px !important;
+      width: 886px !important; max-width: 100%;
+      padding-left: 2%;
+    }
+    .left {left: 4%;}
+    .right {right: 2%;}
+block content
+  img(src='assets/image/irene-olympia.jpg')
+  h4 Olympia
+  p !{irene}
+block footer
+  .left !{final}
+  .right !{outro}

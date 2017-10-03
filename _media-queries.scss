@@ -1,0 +1,36 @@
+// And important point to remember is that and width
+// over the portrait width is considered to be part of the
+// landscape width. This allows us to capture widths of devices
+// that might not fit the dimensions exactly. This means the break
+// points are seamless.
+
+$mq-mobile :  768px !default;
+$mq-tablet : 1200px !default;
+
+// Mobile sizes and below
+@mixin mobile {
+  @media only screen and (max-width : $mq-mobile) {
+    @content;
+  }
+}
+
+// Larger than a landscape mobile but less than or equal to a landscape tablet
+@mixin tablet {
+  @media only screen and (min-width : $mq-mobile + 1) and (max-width : $mq-tablet) {
+    @content;
+  }
+}
+
+// Everything larger than a landscape tablet
+@mixin desktop {
+  @media only screen and (min-width : $mq-tablet + 1) {
+    @content;
+  }
+}
+
+// Retina screens have a 1.5 pixel ratio, not 2
+@mixin retina {
+  @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+    @content;
+  }
+}

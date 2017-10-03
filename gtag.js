@@ -3,7 +3,9 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-
-  gtag('config', 'UA-101496449-2');
+  gtag('config', 'UA-101496449-1' {
+    'linker': {
+      'accept_incoming': true
+    }
+  });
 </script>
